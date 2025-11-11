@@ -1,0 +1,11 @@
+for addressbook code:-
+cd Desktop,download
+ 1. chmod +x filename.sh
+ 2. ./filename.sh
+
+for bubble sort
+   gcc filname.c -o filname
+   ./filename
+
+
+for 
